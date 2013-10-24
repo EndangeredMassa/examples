@@ -1,0 +1,16 @@
+{
+  "name": "express-error-handling",
+  "version": "0.0.1",
+  "description": "Examples of handling errors in express",
+  "main": "index.coffee",
+  "scripts": {
+    "start": "./node_modules/.bin/coffee index.coffee"
+  },
+  "dependencies": {
+    "airbrake": "~0.3.4",
+    "express": "~3.4.1",
+    "longjohn": "~0.2.1",
+    "prettyjson": "~0.9.0",
+    "coffee-script-redux": "~2.0.0-beta7"
+  }
+}
